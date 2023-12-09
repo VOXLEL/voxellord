@@ -1,0 +1,31 @@
+body {
+	background: url(./gif.gif);
+	background-size: cover;
+  background-color: rgb(0, 0, 50)
+}
+.parent {
+  display: flex;
+  justify-content: center;
+  color: greenyellow;
+}
+
+.child {
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
+
+}
+
+.Menu li{
+  display: inline-block;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  color: blanchedalmond;
+}
+
